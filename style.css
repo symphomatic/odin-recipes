@@ -1,0 +1,50 @@
+body{
+    background-color: #111827;
+}
+
+h1 {
+    font-family: cursive;
+    color:#FFFFFF;
+}
+
+h3{
+    font-family: cursive;
+    color:#FFFFFF;
+}
+
+.container{
+    background-color: #172136;
+    width: 800px;
+    height: 1350px;
+    border-color: white;
+    border-style: groove;
+    border-radius: 3px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+ul li {
+    font-family: monospace;
+    font-size: 18px;
+    color: #D1D5DB;
+}
+
+p {
+    color:#D1D5DB;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+ol li {
+    font-family: monospace;
+    font-size: 18px;
+    color: #D1D5DB;
+}
+
+img {
+    border-radius: 8px;
+    width: 300px;
+    height: 300px;
+}
